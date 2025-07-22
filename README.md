@@ -1,4 +1,4 @@
-# fractions
+# Fractions
 A program to visualise fractions
 
 
