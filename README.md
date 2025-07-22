@@ -5,7 +5,7 @@ A program to visualise fractions
 
 DEPENDANCIES
 
-python (obviously)
+python,
 tkinter
 
 tkinter install: https://tkdocs.com/tutorial/install.html
@@ -13,6 +13,6 @@ tkinter install: https://tkdocs.com/tutorial/install.html
 
 CUSTOMISATION
 
-font
-main color
+font,
+main color,
 arrow color
