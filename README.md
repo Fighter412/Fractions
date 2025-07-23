@@ -1,5 +1,5 @@
 # Fractions
-A program to visualise fractions
+A program to visualise fractions. Made to help my younger brother understand fractions more intuitively.
 
 
 
